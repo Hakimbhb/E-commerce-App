@@ -15,6 +15,7 @@ The E-commerce app offers the following features:
 
 ## Screenshots
 ![login ](0.png)
+![reset ](10.png)
 ![signup ](1.png)
 ![signup-data ](2.png)
 ![verifmail ](3.png)
